@@ -1,0 +1,22 @@
+{
+  "name": "withlength",
+  "version": "1.0.0",
+  "description": "A package to find a string of specific length from an array",
+  "main": "index.js",
+  "scripts": {
+    "build":"babel src/index.js --out-file index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "String",
+    "Length",
+    "Array"
+  ],
+  "author": "Sunil Hari <isunilhari@gmail.com> (https://sunilhari.github.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
