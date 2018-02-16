@@ -4,8 +4,7 @@ const withLength = (source, len = 0) => {
     let ofLengthSource = {},
         ofLength = Number(len),
         maxlength = 0,
-        minlength = Number.MAX_VALUE,
-        defaultPayload = {}
+        minlength = Number.MAX_VALUE;
     for (let i = 0; i < source.length; i++) {
         let str = source[i].toString(),
             strLen = str.length;

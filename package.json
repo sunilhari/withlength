@@ -1,6 +1,6 @@
 {
   "name": "withlength",
-  "version": "0.0.0-development",
+  "version": "1.1.1-development",
   "description": "A package to find a string of specific length from an array",
   "main": "index.js",
   "scripts": {
