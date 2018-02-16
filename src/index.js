@@ -32,4 +32,4 @@ const withLength = (source, len = 0) => {
 
 }
 
-export { withLength };
+export default withLength;
