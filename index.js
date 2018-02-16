@@ -36,4 +36,4 @@ var withLength = function withLength(source) {
     }
 };
 
-exports.withLength = withLength;
+exports.default = withLength;
