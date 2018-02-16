@@ -30,6 +30,6 @@ withLength(['Hello','Hai']) //with out length argument
                 maxlength:5,
                 minlength:3,
                 maxs:['Hello'],
-                mins:['Hi']
+                mins:['Hai']
             }   
 ```

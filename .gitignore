@@ -1,2 +1,4 @@
 #Node Modules
 node_modules
+./index.test.js
+.travis.yml
