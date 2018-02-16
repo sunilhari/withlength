@@ -1,12 +1,11 @@
 {
   "name": "withlength",
-  "version": "0.0.0-development",
+  "version": "1.1.1",
   "description": "A package to find a string of specific length from an array",
   "main": "index.js",
   "scripts": {
     "build": "babel src/index.js --out-file index.js",
-    "test": "./node_modules/.bin/mocha --require babel-core/register ./src/index.spec.js",
-    "semantic-release": "semantic-release"
+    "test": "./node_modules/.bin/mocha --require babel-core/register ./src/index.spec.js"
   },
   "keywords": [
     "String",
