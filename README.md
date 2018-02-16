@@ -11,7 +11,7 @@ npm install withlength
 
 ### Usage
 
-<pre><code>
+```
 import withLength from 'withLength'
 withLength(['Hello','Hai'],5) 
 //Output
@@ -20,11 +20,11 @@ withLength(['Hello','Hai'],5)
                 minlength:3,
                 string:['Hello']
             }
-</code></pre>
+```
 
 ### Examples
 
-<pre><code>
+```
 withLength(['Hello','Hai']) //with out length argument
             {
                 maxlength:5,
@@ -32,4 +32,4 @@ withLength(['Hello','Hai']) //with out length argument
                 maxs:['Hello'],
                 mins:['Hi']
             }   
-</code></pre>
+```
