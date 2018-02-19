@@ -1,13 +1,13 @@
 # withlength
 
-It returns a string of specified from an array.
+It returns a string of specified length  from a given  array.
 
 
 ### Installation
 
-<pre><code>
+```
 npm install withlength
-</code></pre>
+```
 
 ### Usage
 
