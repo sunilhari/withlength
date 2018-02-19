@@ -31,4 +31,4 @@ const withLength = (source, len = 0) => {
 
 }
 
-export default withLength;
+module.exports = withLength;
