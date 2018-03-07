@@ -1,5 +1,7 @@
 # withlength
 
+[![Build Status](https://travis-ci.org/sunilhari/withlength.svg?branch=master)](https://travis-ci.org/sunilhari/withlength)
+
 It returns a string of specified length  from a given  array.
 
 
